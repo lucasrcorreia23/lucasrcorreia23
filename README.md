@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [ZOOMtecnologia](https://zoomtecnologia.com.br/)
 
-- ▶️ I'm currently learning about HTML, CSS, Node.Js, Next.Js, GIT, WebGL, React.JS, JavaScript and PHP. 
+- ▶️ I'm currently learning about HTML, CSS, Crud, Next.Js, Node.Js, GIT, WebGL, JavaScript and PHP. 
 
 <!--
 
