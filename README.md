@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer/Front-end Developer & UX/UI Designer 
 
-- 🔭 I’m currently working at [Nestlé](https://zoomtecnologia.com.br/) as Digital Designer
+- 🔭 I’m currently working at [Nestlé] as Digital Designer
 
 - ▶️ I'm currently learning about HTML, CSS, Crud, Next.Js, Node.Js, GIT, WebGL, JavaScript and PHP. 
 
