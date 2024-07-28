@@ -1,11 +1,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Correia</h1>
 
-- 🔥 Junior Web Developer/Front-end Developer & UX/UI Designer 
+- 🔥 Junior Web Developer/Front-end Developer & Product Designer
 
-- 🔭 I’m currently working at Nestlé as Digital Designer
+- 🔭 I’m currently working at Fivelabs as Product Designer
 
-- ▶️ I'm currently learning about HTML, CSS, Crud, Next.Js, Node.Js, GIT, WebGL, JavaScript and PHP. 
+- ▶️ I'm currently learning about Next.Js, Angular.Js, GIT, WebGL, JavaScript and Three.Js. 
 
 <!--
 
