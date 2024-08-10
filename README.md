@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Fivelabs as Product Designer
 
-- ▶️ I'm currently learning about Next.Js, Angular.Js, GIT, WebGL, JavaScript and Three.Js. 
+- ▶️ I'm currently learning about Next.Js, Angular.Js, GIT, WebGL, JavaScript, Three.Js and Blender. 
 
 <!--
 
