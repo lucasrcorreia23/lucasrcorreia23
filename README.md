@@ -42,12 +42,13 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.lucasrc.com.br" target="_blank">Portfolio 
+<br>
 </a>
-<a href="https://twitter.com/drawnandposted" target="_blank">Twitter  
-</a>
+
 <a href="https://linkedin.com/in/lucasrcorreia" target="_blank">
   Linkedin<br>
 </a>
+
 <a href="https://instagram.com/lucasrodriguxs" target="_blank">
 Instagram
 </a>
