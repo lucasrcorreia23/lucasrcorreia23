@@ -3,6 +3,9 @@
 
 - 🔥 Designer Engineer / Product Builder
 
+- 🔭 I’m currently working at Atomsix as Product Designer
+
+- ▶️ I'm currently learning about AI tools and the best ways to improve my workflow as designer
 <!--
 
 <br><br>
